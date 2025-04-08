@@ -6,7 +6,6 @@ Welcome to the **Power BI Data Analysis** repository! This repo showcases intera
 
 ## 🚀 Project: Super Store Analytics Dashboard
 
-### 📅 Date: July 2024  
 ### 🛠 Tool Used: Power BI Desktop
 
 ---
